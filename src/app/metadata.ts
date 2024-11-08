@@ -42,7 +42,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
           width: 1200,
         },
       ],
-      locale: 'en-US',
+      locale: 'zh-CN',
       siteName: BRANDING_NAME,
       title: BRANDING_NAME,
       type: 'website',

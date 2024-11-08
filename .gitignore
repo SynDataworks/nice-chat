@@ -8,6 +8,10 @@
 .history
 .temp
 .env.local
+
+*.tar
+./nice-chat.tar
+
 venv
 temp
 tmp
@@ -68,3 +72,5 @@ public/swe-worker*
 *.patch
 *.pdf
 vertex-ai-key.json
+
+*.tar

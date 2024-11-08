@@ -15,7 +15,7 @@ FORCE_DOWNLOAD=false
 
 # Arg: -l or --lang
 # Determine the language to show, default is en
-LANGUAGE="en_US"
+LANGUAGE="zh_CN"
 
 # Arg: --url
 # Determine the source URL to download files
